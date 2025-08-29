@@ -95,3 +95,7 @@ pip install -r requirements.txt
 
 # Run app
 python app.py
+
+Author
+
+Patrick Ayeh Ayisi – Project Manager & Developer
