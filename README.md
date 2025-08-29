@@ -52,10 +52,19 @@ A machine learning web application that predicts whether a person is diabetic ba
 
 ---
 
+## 📁 Project Structure
+
+- `app.py` - Gradio application code
+- `notebook.ipynb` - Model training and preprocessing
+- `diabetes_model.pkl` - Trained machine learning model
+- `scaler.pkl` - Feature scaler used for preprocessing
+- `model_columns.pkl` - Column names used for model input
+- `requirements.txt` - Python dependencies
+
 ##  Try It Out
 
 You can run the app in Google Colab (with Gradio interface):  
-[🔗 Launch App on Colab](your_colab_link_here)
+[🔗 Launch App on Colab](https://163e6b14f1a956f0f0.gradio.live/)
 
 ---
 
