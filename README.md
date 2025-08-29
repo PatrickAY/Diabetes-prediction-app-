@@ -83,18 +83,7 @@ You can run the app in Google Colab (with Gradio interface):
 
 ---
 
-##  How to Run
 
-```bash
-# Clone repo
-git clone https://github.com/yourusername/diabetes-prediction-app.git
-cd diabetes-prediction-app
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run app
-python app.py
 
 Author
 
